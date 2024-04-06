@@ -7,7 +7,7 @@ Revy from Black Lagoon goes perfect with commando gameplay. She also come with b
 
 ![revygame](https://github.com/dannyduartemgs/revy/assets/165226477/b0e7d049-710f-49b5-b70e-92563a52e165)
 
-Small visual bugs but nothing that affects gameplay, enjoy!
+Small visual bugs (specially in hands) but nothing that affects gameplay, enjoy!
 
 If you wish to contact me here's my discord: dannyduartemgs <br />
 A newbie like me could use some tips. 
